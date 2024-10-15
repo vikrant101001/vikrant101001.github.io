@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I am Vikrant, a Software Engineer with a passion for full-stack development, AI and cloud solutions. With experience across multiple industries, I’ve worked on automating processes, architecting AI-powered systems, and optimizing databases. My recent work at Deloitte and startups like Evva Health has honed my skills in Python, ReactJS, Azure, and more. Always eager to take on new challenges and deliver impactful solutions! \n Kindly check out my projects on my tech stacks :)",
+      "section_name": {
+        "about": "About me",
+        "projects": "My Projects",
+        "skills": "My Tech Stack",
+        "experience": "Work Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Full Stack Works",
+        "startDate": "2022 - current",
+        "description": "My main Interest and Strength, i have been doing Full Stack Web Building since quite long and in terms of professional Experience also, i have done this in both my internships at US based startups: Evva Health(MERN tech Stack) and Pollvault(FARM Tech Stack). And I am currently continuing this path in my current company Deloitte where i am using MERN Tech Stack ",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-java-plain colored",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Data and Devops Works",
+        "startDate": "2022 - current",
+        "description": "Data Science has always been a pretty interesting front for me as I have created Many projects in my college days and till now too. In my starting days in Deloitte, i was assigned some data science projects before getting the software engineer role.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark colored",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-mongodb-plain-wordmark colored",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "AI and ML/DL Works",
+        "startDate": "2022 - current",
+        "description": "During the my First Internship experience, the main component of the work was creating an AI Assistant(Chatbot). Since then, i have been very indulged in AI works and projects and research a lot on these. Also i published a research paper on Brain tumor using ML/DL which was published well on Springer US",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-java-plain colored",
+            "name": "Java"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Deloitte",
+        "title": "Software Engineer(Full Stack)",
+        "years": "09.2023 - present",
+        "mainTech": [
+          "Hyderabad"
+        ],
+        "technologies": [
+          "Python",
+          "SQL Server",
+          "JavaScript",
+          "ReactJS",
+          "Java",
+          "C#",
+          ".NET Core",
+          "Ruby on Rails",
+          "AWS/Azure"
+        ]
+      },
+      {
+        "company": "Evva Health",
+        "title": "Full Stack, Devops And AI Engineer",
+        "years": "10.2022 - 08.2023",
+        "mainTech": [
+          "Remote"
+        ],
+        "technologies": [
+          "ReactJS",
+          "Python",
+          "Java",
+          "AWS/Azure",
+          "Mongodb"
+        ]
+      }
+    ]
+  }
